@@ -16,8 +16,8 @@ const cherryBombOne = Cherry_Bomb_One({
 
 
 export const metadata: Metadata = {
-  title: "Happy Happy CUM!",
-  description: "Happy Happy Cum para belen, la mas linda de todas",
+    title: "Happy Happy CUM!",
+    description: "Happy Cum para Bel, la mas linda de todas",
 };
 
 export default function RootLayout({

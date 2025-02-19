@@ -85,9 +85,14 @@ export default function Home() {
                             height={480}
                             alt="Cumpleaños"
                             className="my-4 w-3/4"
+                            unoptimized={true}
                           />
-                          <p className="p-2 font-dyna">
-                              Un bonito día para celebrar tu existencia, espero que la pases muy bien y que te diviertas mucho. 🎉
+                          <p className="p-2 font-dyna text-center">
+                              Hola guapota, feliz cumpleaños y ojalá que CUMplas mas, te quiero mucho y espero pronto podamos vernos.
+
+                          </p>
+                          <p className="p-2 font-dyna text-center">
+                              Te mando un beso, me caes muy bien, sos atractiva y me re gustas, otro beso, genia.
                           </p>
                       </AlertDialogDescription>
                   </AlertDialogHeader>
